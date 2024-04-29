@@ -8,7 +8,6 @@ Python is a versatile and popular programming language known for its simplicity,
 3. Libraries and Frameworks: Python has a rich ecosystem of libraries and frameworks. For web development, there are Django and Flask. For data science and machine learning, libraries like pandas, numpy, matplotlib, scikit-learn, and TensorFlow are widely used.  
 4. Community Support: Python has a large and active community, providing extensive documentation, tutorials, and forums for support.  
 5. Cross-Platform: Python runs on multiple operating systems, including Windows, Mac, and Linux, allowing for cross-platform development.
-
    
 If you'd like to know more about Python or its applications, feel free to ask!  
   
